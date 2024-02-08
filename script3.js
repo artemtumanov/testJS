@@ -86,7 +86,6 @@ console.log(result1);
 //Девятая задача
 const lines = 5;
 let result2 = '';
-
 for (let i = 0; i <= lines; i++) {
 	for (let j = 0; j < lines - i; j++) {
 		result2 += ' ';
