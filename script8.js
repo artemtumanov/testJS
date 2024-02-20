@@ -81,3 +81,5 @@ function sortStudentsByGroups(arr) {
 }
 
 console.log(sortStudentsByGroups(students));
+
+console.log([0]);
